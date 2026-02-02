@@ -1,6 +1,30 @@
 # 💫 About Me:
 Full Stack Dev.
 
+> 🎯 **Hedefim:** Ankara Üniversitesi Yazılım Mühendisliği  
+> 💻 **Hayatım:** Bilgisayar = hayat  
+> 🚀 **Hayalim:** "Tüm herkesin kullanmak zorunda olduğu bir paket" yapmak
+
+---
+
+## 🚀 zero-* Ecosystem
+
+Enterprise-grade, zero-dependency TypeScript utilities koleksiyonum.
+
+| Paket | Açıklama | NPM |
+|-------|----------|-----|
+| **[@onurege/zero-queue](https://github.com/onure9e/zero-queue)** | Job queue (Memory, Redis, SQLite) | `npm i @onurege/zero-queue` |
+| **[@onurege/zero-valid](https://github.com/onure9e/zero-valid)** | TypeScript-native schema validation | `npm i @onurege/zero-valid` |
+| **[@onurege/zero-id](https://github.com/onure9e/zero-id)** | 30+ format ID generation | `npm i @onurege/zero-id` |
+| **[@onurege/zero-compress](https://github.com/onure9e/zero-compress)** | zlib replacement (async + security) | `npm i @onurege/zero-compress` |
+| **[@onurege/zero-pm](https://github.com/onure9e/zero-pm)** | Process manager | `npm i @onurege3467/zero-pm` |
+| **[@onurege/zero-config](https://github.com/onure9e/zero-config)** | Configuration management | `npm i @onurege3467/zero-config` |
+| **[@onurege/zeroauth](https://github.com/onure9e/zeroauth)** | Authentication utilities | `npm i @onurege3467/zeroauth` |
+| **[@onurege/zerohelper](https://github.com/onure9e/zerohelper)** | General utilities | `npm i @onurege/zerohelper` |
+
+**🛠️ Özellikler:** Zero-dependency · TypeScript-native · Enterprise-grade · BullMQ-compatible API
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onurege3467) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OnurEg3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@onurege.click) 
