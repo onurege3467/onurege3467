@@ -28,11 +28,6 @@ const stack = {
 ```diff
 + currently shipping
 
-  → @onurege3467/zerohelper
-    elite-level TypeScript utility ecosystem
-    unified DB layer · ZPack binary engine · TOON native DB · ZeroWorker
-    battle-hardened in closed commercial systems before open-source
-
   → aegis  [cylix project]
     advanced protection layer for Node.js
     threat detection · input hardening · runtime defense
@@ -54,16 +49,6 @@ const stack = {
   - over-engineering
 ```
 
----
-
-**zerohelper**
-
-[![npm version](https://img.shields.io/npm/v/@onurege3467/zerohelper?style=flat-square&color=000&labelColor=111&label=version)](https://www.npmjs.com/package/@onurege3467/zerohelper)
-[![npm downloads](https://img.shields.io/npm/dm/@onurege3467/zerohelper?style=flat-square&color=000&labelColor=111&label=downloads%2Fmo)](https://www.npmjs.com/package/@onurege3467/zerohelper)
-
-```sh
-npm install @onurege3467/zerohelper
-```
 
 ---
 
