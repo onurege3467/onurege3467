@@ -29,7 +29,7 @@ const stack = {
 │  performance-first architecture · zero bloat · custom internals   │
 └───────────────────────────────────────────────────────────────────┘
 
-┌─ CYLIX ─────────────────────────────────────────── closed source ─┐
+┌─ AEGIS ─────────────────────────────────────────── closed source ─┐
 │  advanced security systems designed for organizations             │
 │  threat modeling · runtime defense · custom auth & hardening      │
 └───────────────────────────────────────────────────────────────────┘
@@ -39,7 +39,7 @@ const stack = {
 │  do one thing · no framework tax · read the whole file in a minute  │
 └─────────────────────────────────────────────────────────────────────┘
 
-┌─ AEGIS ─────────────────────────────────────────── closed source ─┐
+┌─ CYLIX ─────────────────────────────────────────── closed source ─┐
 │  compact tools for small private businesses                       │
 │  practical scope · fast delivery · maintained quietly             │
 └───────────────────────────────────────────────────────────────────┘
