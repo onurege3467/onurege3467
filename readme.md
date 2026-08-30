@@ -1,9 +1,3 @@
-<div align="right">
-
-![views](https://komarev.com/ghpvc/?username=onurege3467&style=flat-square&color=grey&label=profile+views)
-
-</div>
-
 ```
 空 — the space between commits is where thinking happens.
 ```
@@ -25,44 +19,52 @@ const stack = {
 };
 ```
 
+---
+
+## `~/projects`
+
+```
+┌─ AURA ──────────────────────────────────────────── closed source ─┐
+│  bespoke software, built for one purpose and tuned to the metal   │
+│  performance-first architecture · zero bloat · custom internals   │
+└───────────────────────────────────────────────────────────────────┘
+
+┌─ CYLIX ─────────────────────────────────────────── closed source ─┐
+│  advanced security systems designed for organizations             │
+│  threat modeling · runtime defense · custom auth & hardening      │
+└───────────────────────────────────────────────────────────────────┘
+
+┌─ ZERIUM ────────────────────────────────────────────── open source ─┐
+│  minimal open source projects — small, sharp, dependency-light      │
+│  do one thing · no framework tax · read the whole file in a minute  │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─ AEGIS ─────────────────────────────────────────── closed source ─┐
+│  compact tools for small private businesses                       │
+│  practical scope · fast delivery · maintained quietly             │
+└───────────────────────────────────────────────────────────────────┘
+```
+
 ```diff
-+ currently shipping
-
-  → aegis  [cylix project]
-    advanced protection layer for Node.js
-    threat detection · input hardening · runtime defense
-
-  → Aura Dev Tools                          aura.onurege.click
-    80+ browser-based utilities for developers
-    JSON formatter · JWT decoder · Regex tester · Hash generator
-    UUID · QR code · CSS tools · Base64 · Diff · Color picker
-    100% client-side — no server, no logs, no bullshit
-
-  → [closed source]
-    bespoke security systems & automation for orgs and individuals
-    n8n workflows · Kubernetes deployments · custom auth & protection layers
-    NDA-bound — ships silent, runs silent
-
 - currently avoiding
   - boilerplate
   - vendor lock-in
   - over-engineering
 ```
 
-
 ---
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=onurege3467&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true)
-&nbsp;&nbsp;
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurege3467&theme=dark&hide_border=true&layout=compact&hide_title=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onurege3467&theme=github_dark" alt="profile details" />
 
-</div>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onurege3467&theme=github_dark" alt="repos per language" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onurege3467&theme=github_dark" alt="most commit language" />
 
-<div align="center">
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=onurege3467&theme=github_dark" alt="stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onurege3467&theme=github_dark&utcOffset=3" alt="productive time" />
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onurege3467&theme=github-compact&hide_border=true&area=true)
+<img src="https://streak-stats.demolab.com?user=onurege3467&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
 
 </div>
 
