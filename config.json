@@ -1,5 +1,6 @@
 {
   "user": "onurege3467",
+  "assetBase": "https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/",
   "header": {
     "name": "Onurege",
     "tagline": "空 — the space between commits is where thinking happens.",
@@ -9,32 +10,232 @@
     {
       "title": "Libraries",
       "repos": [
-        ["webToken", "JWT alternative with encrypted payloads. AES-256-GCM and Ed25519, binary or protobuf.", "TypeScript"],
-        ["zero-id", "30+ ID formats — UUID, ULID, NanoID, KSUID, Snowflake — on native crypto. Zero dependencies.", "TypeScript"],
-        ["math", "Mathematics for TypeScript and JavaScript. ESM and CJS, zero dependencies.", "TypeScript"],
-        ["log", "Logger with worker-thread I/O, async context tracking and secret redaction.", "TypeScript"],
-        ["pg-adapter", "PostgreSQL adapter with optional Redis cache, lifecycle hooks and transactions.", "TypeScript"],
-        ["zerohelper", "Utility toolkit with one API over SQLite, MySQL, Postgres, MongoDB and Redis.", "TypeScript"]
-      ]
-    },
-    {
-      "title": "Tools",
-      "repos": [
-        ["easycolor", "Terminal colors — truecolor, gradients and themes. Zero dependencies.", "JavaScript"],
-        ["onelauncher", "Minecraft launcher, a fork of Polyfrost OneLauncher.", "Rust"]
+        [
+          "webToken",
+          "JWT alternative with encrypted payloads. AES-256-GCM and Ed25519, binary or protobuf.",
+          "TypeScript"
+        ],
+        [
+          "zero-id",
+          "30+ ID formats — UUID, ULID, NanoID, KSUID, Snowflake — on native crypto. Zero dependencies.",
+          "TypeScript"
+        ],
+        [
+          "math",
+          "Mathematics for TypeScript and JavaScript. ESM and CJS, zero dependencies.",
+          "TypeScript"
+        ],
+        [
+          "log",
+          "Logger with worker-thread I/O, async context tracking and secret redaction.",
+          "TypeScript"
+        ],
+        [
+          "pg-adapter",
+          "PostgreSQL adapter with optional Redis cache, lifecycle hooks and transactions.",
+          "TypeScript"
+        ],
+        [
+          "zerohelper",
+          "Utility toolkit with one API over SQLite, MySQL, Postgres, MongoDB and Redis.",
+          "TypeScript"
+        ],
+        [
+          "pray-time-tr",
+          "Prayer times for Turkish cities, using the Diyanet method. Zero dependencies.",
+          "TypeScript",
+          "https://www.npmjs.com/package/pray-time-tr"
+        ],
+        [
+          "sozluk-gov-tr",
+          "Typed word lookups for the TDK dictionary at sozluk.gov.tr. Unofficial client.",
+          "TypeScript",
+          "https://www.npmjs.com/package/sozluk-gov-tr"
+        ],
+        [
+          "easycolor",
+          "Terminal colors — truecolor, gradients and themes. Zero dependencies.",
+          "JavaScript"
+        ],
+        [
+          "NQN-Altyapi",
+          "Discord bot for custom emojis without Nitro, sent through webhooks. discord.js v14.",
+          "JavaScript"
+        ]
       ]
     }
   ],
-  "footer": {
-    "stack": "TypeScript · Node.js · PostgreSQL · Redis · Docker — also Python, Rust and Go",
-    "note": "Besides open source, I build closed-source tools and security work for small businesses.",
-    "site": "https://www.onurege.click",
-    "email": "info@onurege.click"
+  "langColors": {
+    "TypeScript": "#3178c6",
+    "JavaScript": "#f1e05a",
+    "Rust": "#dea584",
+    "Go": "#00add8",
+    "Python": "#3572a5"
   },
-  "langColors": { "TypeScript": "#3178c6", "JavaScript": "#f1e05a", "Rust": "#dea584", "Go": "#00add8", "Python": "#3572a5" },
   "themes": {
-    "light": { "fg": "#1f2328", "muted": "#59636e", "faint": "#818b98", "card": "#ffffff", "border": "rgba(31,35,40,0.10)", "edge": "rgba(255,255,255,0)", "shadow": 0.06 },
-    "dark":  { "fg": "#f0f6fc", "muted": "#9198a1", "faint": "#656c76", "card": "rgba(240,246,252,0.035)", "border": "rgba(240,246,252,0.10)", "edge": "rgba(240,246,252,0.16)", "shadow": 0 }
+    "light": {
+      "fg": "#1f2328",
+      "muted": "#59636e",
+      "faint": "#818b98",
+      "card": "#ffffff",
+      "border": "rgba(31,35,40,0.10)",
+      "edge": "rgba(255,255,255,0)",
+      "shadow": 0.06,
+      "btnBg": "#1f2328",
+      "btnFg": "#ffffff"
+    },
+    "dark": {
+      "fg": "#f0f6fc",
+      "muted": "#9198a1",
+      "faint": "#656c76",
+      "card": "rgba(240,246,252,0.035)",
+      "border": "rgba(240,246,252,0.10)",
+      "edge": "rgba(240,246,252,0.16)",
+      "shadow": 0,
+      "btnBg": "#f0f6fc",
+      "btnFg": "#0d1117"
+    }
   },
-  "card": { "w": 400, "h": 140, "pad": 24, "radius": 16, "wrap": 50 }
+  "card": {
+    "w": 400,
+    "h": 140,
+    "pad": 24,
+    "radius": 16,
+    "wrap": 50,
+    "stackH": 112,
+    "chipFont": 13,
+    "chipCharW": 0.58,
+    "chipIcon": 16,
+    "chipGap": 6,
+    "chipSpace": 16,
+    "chipLine": 26
+  },
+  "stack": {
+    "title": "Languages & tools",
+    "groups": [
+      [
+        "Languages",
+        [
+          "TypeScript",
+          "JavaScript",
+          "Python",
+          "Java",
+          "Go",
+          "Rust",
+          "C",
+          "PHP",
+          "Bash"
+        ]
+      ],
+      [
+        "Frontend",
+        [
+          "Next.js",
+          "React",
+          "Vue",
+          "Tailwind",
+          "Vite"
+        ]
+      ],
+      [
+        "Backend",
+        [
+          "Node.js",
+          "Prisma",
+          "PostgreSQL",
+          "Redis",
+          "MongoDB"
+        ]
+      ],
+      [
+        "Infrastructure",
+        [
+          "Docker",
+          "Kubernetes",
+          "Nginx",
+          "Vercel",
+          "Linode",
+          "GitHub Actions"
+        ]
+      ],
+      [
+        "Automation",
+        [
+          "n8n",
+          "cron",
+          "Puppeteer",
+          "pipeline scripts"
+        ]
+      ],
+      [
+        "Workflow",
+        [
+          "Git",
+          "Postman"
+        ]
+      ]
+    ]
+  },
+  "iconDir": "icons",
+  "icons": {
+    "TypeScript": "typescript",
+    "JavaScript": "javascript",
+    "Python": "python",
+    "Java": "openjdk",
+    "Go": "go",
+    "Rust": "rust",
+    "C": "c",
+    "PHP": "php",
+    "Bash": "gnubash",
+    "Next.js": "nextdotjs",
+    "React": "react",
+    "Vue": "vuedotjs",
+    "Tailwind": "tailwindcss",
+    "Vite": "vite",
+    "Node.js": "nodedotjs",
+    "Prisma": "prisma",
+    "PostgreSQL": "postgresql",
+    "Redis": "redis",
+    "MongoDB": "mongodb",
+    "Docker": "docker",
+    "Kubernetes": "kubernetes",
+    "Nginx": "nginx",
+    "Vercel": "vercel",
+    "Linode": "akamai",
+    "GitHub Actions": "githubactions",
+    "n8n": "n8n",
+    "cron": "clock",
+    "Puppeteer": "puppeteer",
+    "pipeline scripts": "terminal",
+    "Git": "git",
+    "Postman": "postman"
+  },
+  "contact": {
+    "title": "Contact me",
+    "note": "Besides open source, I build closed-source tools and security work for small businesses.",
+    "buttons": [
+      {
+        "label": "info@onurege.click",
+        "href": "mailto:info@onurege.click",
+        "icon": "mail",
+        "primary": true,
+        "alt": "Email: info@onurege.click"
+      },
+      {
+        "label": "onurege.click",
+        "href": "https://www.onurege.click",
+        "icon": "globe",
+        "primary": false,
+        "alt": "Website: onurege.click"
+      }
+    ]
+  },
+  "button": {
+    "h": 40,
+    "padX": 18,
+    "icon": 18,
+    "gap": 8,
+    "font": 14,
+    "charW": 0.58
+  }
 }

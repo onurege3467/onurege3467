@@ -1,26 +1,36 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Onurege. 空 — the space between commits is where thinking happens. Full-stack developer · Northern Cyprus · small libraries, few dependencies" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/header-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/header-light.svg" alt="Onurege. 空 — the space between commits is where thinking happens. Full-stack developer · Northern Cyprus · small libraries, few dependencies" width="100%"></picture>
+
+### Languages & tools
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-languages-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-languages-light.svg" alt="Languages: TypeScript, JavaScript, Python, Java, Go, Rust, C, PHP, Bash" width="400"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-frontend-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-frontend-light.svg" alt="Frontend: Next.js, React, Vue, Tailwind, Vite" width="400"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-backend-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-backend-light.svg" alt="Backend: Node.js, Prisma, PostgreSQL, Redis, MongoDB" width="400"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-infrastructure-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-infrastructure-light.svg" alt="Infrastructure: Docker, Kubernetes, Nginx, Vercel, Linode, GitHub Actions" width="400"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-automation-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-automation-light.svg" alt="Automation: n8n, cron, Puppeteer, pipeline scripts" width="400"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-workflow-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/stack-workflow-light.svg" alt="Workflow: Git, Postman" width="400"></picture>
+</p>
 
 ### Libraries
 
 <p>
-<a href="https://github.com/onurege3467/webToken"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/webtoken-dark.svg"><img src="assets/webtoken-light.svg" alt="webToken — JWT alternative with encrypted payloads. AES-256-GCM and Ed25519, binary or protobuf." width="400"></picture></a>
-<a href="https://github.com/onurege3467/zero-id"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zero-id-dark.svg"><img src="assets/zero-id-light.svg" alt="zero-id — 30+ ID formats — UUID, ULID, NanoID, KSUID, Snowflake — on native crypto. Zero dependencies." width="400"></picture></a>
-<a href="https://github.com/onurege3467/math"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/math-dark.svg"><img src="assets/math-light.svg" alt="math — Mathematics for TypeScript and JavaScript. ESM and CJS, zero dependencies." width="400"></picture></a>
-<a href="https://github.com/onurege3467/log"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/log-dark.svg"><img src="assets/log-light.svg" alt="log — Logger with worker-thread I/O, async context tracking and secret redaction." width="400"></picture></a>
-<a href="https://github.com/onurege3467/pg-adapter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pg-adapter-dark.svg"><img src="assets/pg-adapter-light.svg" alt="pg-adapter — PostgreSQL adapter with optional Redis cache, lifecycle hooks and transactions." width="400"></picture></a>
-<a href="https://github.com/onurege3467/zerohelper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zerohelper-dark.svg"><img src="assets/zerohelper-light.svg" alt="zerohelper — Utility toolkit with one API over SQLite, MySQL, Postgres, MongoDB and Redis." width="400"></picture></a>
+<a href="https://github.com/onurege3467/webToken"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/webtoken-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/webtoken-light.svg" alt="webToken (TypeScript) — JWT alternative with encrypted payloads. AES-256-GCM and Ed25519, binary or protobuf." width="400"></picture></a>
+<a href="https://github.com/onurege3467/zero-id"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/zero-id-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/zero-id-light.svg" alt="zero-id (TypeScript) — 30+ ID formats — UUID, ULID, NanoID, KSUID, Snowflake — on native crypto. Zero dependencies." width="400"></picture></a>
+<a href="https://github.com/onurege3467/math"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/math-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/math-light.svg" alt="math (TypeScript) — Mathematics for TypeScript and JavaScript. ESM and CJS, zero dependencies." width="400"></picture></a>
+<a href="https://github.com/onurege3467/log"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/log-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/log-light.svg" alt="log (TypeScript) — Logger with worker-thread I/O, async context tracking and secret redaction." width="400"></picture></a>
+<a href="https://github.com/onurege3467/pg-adapter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/pg-adapter-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/pg-adapter-light.svg" alt="pg-adapter (TypeScript) — PostgreSQL adapter with optional Redis cache, lifecycle hooks and transactions." width="400"></picture></a>
+<a href="https://github.com/onurege3467/zerohelper"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/zerohelper-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/zerohelper-light.svg" alt="zerohelper (TypeScript) — Utility toolkit with one API over SQLite, MySQL, Postgres, MongoDB and Redis." width="400"></picture></a>
+<a href="https://www.npmjs.com/package/pray-time-tr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/pray-time-tr-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/pray-time-tr-light.svg" alt="pray-time-tr (TypeScript, npm) — Prayer times for Turkish cities, using the Diyanet method. Zero dependencies." width="400"></picture></a>
+<a href="https://www.npmjs.com/package/sozluk-gov-tr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/sozluk-gov-tr-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/sozluk-gov-tr-light.svg" alt="sozluk-gov-tr (TypeScript, npm) — Typed word lookups for the TDK dictionary at sozluk.gov.tr. Unofficial client." width="400"></picture></a>
+<a href="https://github.com/onurege3467/easycolor"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/easycolor-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/easycolor-light.svg" alt="easycolor (JavaScript) — Terminal colors — truecolor, gradients and themes. Zero dependencies." width="400"></picture></a>
+<a href="https://github.com/onurege3467/NQN-Altyapi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/nqn-altyapi-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/nqn-altyapi-light.svg" alt="NQN-Altyapi (JavaScript) — Discord bot for custom emojis without Nitro, sent through webhooks. discord.js v14." width="400"></picture></a>
 </p>
 
-### Tools
+### Contact me
 
-<p>
-<a href="https://github.com/onurege3467/easycolor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/easycolor-dark.svg"><img src="assets/easycolor-light.svg" alt="easycolor — Terminal colors — truecolor, gradients and themes. Zero dependencies." width="400"></picture></a>
-<a href="https://github.com/onurege3467/onelauncher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/onelauncher-dark.svg"><img src="assets/onelauncher-light.svg" alt="onelauncher — Minecraft launcher, a fork of Polyfrost OneLauncher." width="400"></picture></a>
+Besides open source, I build closed-source tools and security work for small businesses.
+
+<p align="center">
+<a href="mailto:info@onurege.click"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/btn-mail-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/btn-mail-light.svg" alt="Email: info@onurege.click" width="208"></picture></a>
+<a href="https://www.onurege.click"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/btn-globe-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/btn-globe-light.svg" alt="Website: onurege.click" width="168"></picture></a>
 </p>
-
----
-
-<sub>TypeScript · Node.js · PostgreSQL · Redis · Docker — also Python, Rust and Go</sub>
-
-Besides open source, I build closed-source tools and security work for small businesses.  
-[onurege.click](https://www.onurege.click) · [info@onurege.click](mailto:info@onurege.click)

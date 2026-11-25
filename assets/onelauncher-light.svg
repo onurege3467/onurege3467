@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 156" role="img" aria-label="onelauncher: Minecraft launcher, a fork of Polyfrost OneLauncher.">
-<defs><filter id="s" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.06"/></filter><linearGradient id="e" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="rgba(255,255,255,0)"/><stop offset=".25" stop-color="rgba(31,35,40,0.10)"/></linearGradient></defs>
-<rect x="8.5" y="8.5" width="399" height="139" rx="16" fill="#ffffff" stroke="url(#e)" filter="url(#s)"/>
-<text x="32" y="50" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="-0.2" fill="#1f2328">onelauncher</text>
-<text x="384" y="50" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#818b98">↗</text>
-<text x="32" y="76" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">Minecraft launcher, a fork of Polyfrost</text><text x="32" y="95" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">OneLauncher.</text>
-<circle cx="37" cy="120" r="5" fill="#dea584"/>
-<text x="48" y="124" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="0.1" fill="#59636e">Rust</text>
-</svg>
