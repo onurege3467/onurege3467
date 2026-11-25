@@ -4,80 +4,34 @@
 
 ```bash
 $ whoami
-> onurege — full stack dev, automation builder, digital minimalist
+> onurege — full stack dev from Northern Cyprus. small libraries, few dependencies.
 ```
+
+## `~/open-source`
+
+| repo | what it does | |
+|---|---|---|
+| [**webToken**](https://github.com/onurege3467/webToken) | JWT alternative with encrypted payloads — AES-256-GCM / Ed25519, binary & protobuf formats | `TypeScript` |
+| [**zero-id**](https://github.com/onurege3467/zero-id) | 30+ ID formats (UUID, ULID, NanoID, KSUID, Snowflake…) on native crypto, zero deps | `TypeScript` |
+| [**math**](https://github.com/onurege3467/math) | math library for TS/JS, ESM + CJS, zero deps | `TypeScript` |
+| [**log**](https://github.com/onurege3467/log) | logger with worker-thread I/O, async context and secret redaction | `TypeScript` |
+| [**pg-adapter**](https://github.com/onurege3467/pg-adapter) | PostgreSQL adapter — optional Redis cache, hooks, transactions | `TypeScript` |
+| [**zerohelper**](https://github.com/onurege3467/zerohelper) | utility toolkit + one API over SQLite, MySQL, Postgres, MongoDB, Redis | `TypeScript` |
+| [**easycolor**](https://github.com/onurege3467/easycolor) | terminal colors — truecolor, gradients, themes, zero deps | `JavaScript` |
+| [**onelauncher**](https://github.com/onurege3467/onelauncher) | Minecraft launcher, fork of Polyfrost OneLauncher | `Rust` |
 
 ```js
 const stack = {
-  languages  : ["TypeScript", "JavaScript", "Python", "C", "PHP", "Bash"],
-  frontend   : ["Next.js", "React", "Vue", "Tailwind", "Vite"],
-  backend    : ["Node.js", "Prisma", "PostgreSQL", "Redis", "Supabase"],
-  infra      : ["Docker", "Kubernetes", "Nginx", "Vercel", "Linode", "GitHub Actions"],
-  automation : ["n8n", "cron", "Puppeteer", "custom pipeline scripts"],
-  security   : ["custom auth layers", "rate limiting", "WAF rules", "threat modeling"],
-  tools      : ["Figma", "Postman", "Git"]
+  daily   : ["TypeScript", "Node.js", "PostgreSQL", "Redis", "Docker"],
+  also    : ["Python", "Rust", "Go", "Next.js", "React"],
+  avoids  : ["boilerplate", "vendor lock-in", "over-engineering"],
 };
 ```
 
----
-
-## `~/projects`
-
-```
-┌─ AURA ──────────────────────────────────────────── closed source ─┐
-│  bespoke software, built for one purpose and tuned to the metal   │
-│  performance-first architecture · zero bloat · custom internals   │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─ AEGIS ─────────────────────────────────────────── closed source ─┐
-│  advanced security systems designed for organizations             │
-│  threat modeling · runtime defense · custom auth & hardening      │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─ ZERIUM ────────────────────────────────────────────── open source ─┐
-│  minimal open source projects — small, sharp, dependency-light      │
-│  do one thing · no framework tax · read the whole file in a minute  │
-└─────────────────────────────────────────────────────────────────────┘
-
-┌─ CYLIX ─────────────────────────────────────────── closed source ─┐
-│  compact tools for small private businesses                       │
-│  practical scope · fast delivery · maintained quietly             │
-└───────────────────────────────────────────────────────────────────┘
-```
-
-```diff
-- currently avoiding
-  - boilerplate
-  - vendor lock-in
-  - over-engineering
-```
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onurege3467&theme=github_dark" alt="profile details" />
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onurege3467&theme=github_dark" alt="repos per language" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onurege3467&theme=github_dark" alt="most commit language" />
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=onurege3467&theme=github_dark" alt="stats" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onurege3467&theme=github_dark&utcOffset=3" alt="productive time" />
-
-<img src="https://streak-stats.demolab.com?user=onurege3467&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
-
-</div>
-
----
+Besides open source, I build closed-source tools and security work for small businesses —
+details on [onurege.click](https://www.onurege.click).
 
 ```sh
-# reach me
 $ curl -s https://onurege.click
 $ mailto: info@onurege.click
 ```
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
-
-</div>
