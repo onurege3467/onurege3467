@@ -32,5 +32,5 @@ Besides open source, I build closed-source tools and security work for small bus
 
 <p align="center">
 <a href="mailto:info@onurege.click"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/btn-mail-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/btn-mail-light.svg" alt="Email: info@onurege.click" width="208"></picture></a>
-<a href="https://www.onurege.click"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/btn-globe-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/btn-globe-light.svg" alt="Website: onurege.click" width="168"></picture></a>
+<a href="https://onurege.click"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/btn-globe-dark.svg"><img src="https://raw.githubusercontent.com/onurege3467/onurege3467/main/assets/btn-globe-light.svg" alt="Website: onurege.click" width="168"></picture></a>
 </p>
