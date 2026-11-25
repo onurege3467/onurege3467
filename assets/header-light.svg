@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 176" role="img" aria-label="Onurege">
+<style>
+  g { animation: in .6s cubic-bezier(.2,.8,.2,1) both; }
+  @keyframes in { from { opacity: 0; transform: translateY(6px); } }
+  @media (prefers-reduced-motion: reduce) { g { animation: none; } }
+</style>
+<g>
+  <text x="0" y="72" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.4" fill="#1f2328">Onurege</text>
+  <text x="1" y="118" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="-0.2" fill="#1f2328">空 — the space between commits is where thinking happens.</text>
+  <text x="1" y="150" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="0" fill="#59636e">Full-stack developer · Northern Cyprus · small libraries, few dependencies</text>
+</g>
+</svg>
